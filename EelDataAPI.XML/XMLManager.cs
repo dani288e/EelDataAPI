@@ -15,7 +15,9 @@ namespace EelDataAPI.XML
             XmlDeclaration xmlDeclaration = triggerDoc.CreateXmlDeclaration("1.0", "UTF-8", null);
             foreach (var trigger in DALManagerSingleton.Instance.GetTriggers(triggerList))
             {
-                Debug.WriteLine(triggerList.ToString());
+                Debug.WriteLine(trigger.BassinID);
+                Debug.WriteLine(trigger.WarningID);
+                Debug.WriteLine(trigger.DateTime);
             }
             XmlElement root = triggerDoc.DocumentElement;
             triggerDoc.InsertBefore(xmlDeclaration, root);

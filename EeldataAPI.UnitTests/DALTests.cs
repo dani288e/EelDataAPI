@@ -2,22 +2,23 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using EelDataAPI.DAL;
 using EelDataAPI.Model;
+using System.Collections.Generic;
 
 namespace EelDataAPI.UnitTests
 {
     [TestClass]
     public class DALTests
     {
-        private Model.Trigger _trigger;
+        private List<DAL.Trigger> _triggers;
         [TestInitialize]
         public void Init()
         {
-            _trigger = new Model.Trigger();
+            _triggers = new List<DAL.Trigger>();
         }
         [TestMethod]
         public void GetTriggersTest()
         {
-            //DALManagerSingleton.Instance.GetTriggers(_trigger);
+            DALManagerSingleton.Instance.GetTriggers(_triggers);
         }
     }
 }

@@ -8,7 +8,7 @@ namespace EelDataAPI.DAL
 {
     public class DALManager
     {
-        public List<Trigger> GetTriggers(List<Trigger> triggers)
+        public List<DAL.Trigger> GetTriggers(List<DAL.Trigger> triggers)
         {
             using (EelDataEntities context = new EelDataEntities())
             {
