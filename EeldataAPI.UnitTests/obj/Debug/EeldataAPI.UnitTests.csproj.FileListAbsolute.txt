@@ -13,3 +13,5 @@ C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\obj\Debug\Eeldata
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\bin\Debug\EeldataAPI.UnitTests.dll.config
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\bin\Debug\EelDataAPI.XML.dll
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\bin\Debug\EelDataAPI.XML.pdb

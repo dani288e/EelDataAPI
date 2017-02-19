@@ -8,7 +8,7 @@ namespace EelDataAPI.UnitTests
     [TestClass]
     public class DALTests
     {
-        private EelDataAPI.Model.Trigger _trigger;
+        private Model.Trigger _trigger;
         [TestInitialize]
         public void Init()
         {
@@ -17,7 +17,7 @@ namespace EelDataAPI.UnitTests
         [TestMethod]
         public void GetTriggersTest()
         {
-            DALManagerSingleton.Instance.GetTriggers(_trigger);
+            //DALManagerSingleton.Instance.GetTriggers(_trigger);
         }
     }
 }
