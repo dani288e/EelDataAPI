@@ -9,20 +9,20 @@ namespace EelDataAPI.XML
 {
     public class XMLManager
     {
-        public XmlDocument GenerateTriggerDocument(List<DAL.Trigger> triggerList)
+        public XmlDocument GenerateTriggerDocument(List<Trigger> triggerList)
         {
-            XmlDocument triggerDoc = new XmlDocument();
-            XmlDeclaration xmlDeclaration = triggerDoc.CreateXmlDeclaration("1.0", "UTF-8", null);
+            XmlDocument xmlDocument = new XmlDocument();
+            XmlElement root = xmlDocument.CreateElement("Trigger");
+            xmlDocument.AppendChild(root);
             foreach (var trigger in DALManagerSingleton.Instance.GetTriggers(triggerList))
             {
-                Debug.WriteLine(trigger.BassinID);
-                Debug.WriteLine(trigger.WarningID);
-                Debug.WriteLine(trigger.DateTime);
+                XmlElement triggerElement = xmlDocument.CreateElement("Event");
+                triggerElement.SetAttribute("BassinID", trigger.BassinID.ToString());
+                triggerElement.SetAttribute("WarningID", trigger.WarningID.ToString());
+                triggerElement.SetAttribute("Timestamp", trigger.DateTime.ToString());
+                root.AppendChild(triggerElement);
             }
-            XmlElement root = triggerDoc.DocumentElement;
-            triggerDoc.InsertBefore(xmlDeclaration, root);
-
-            return triggerDoc;
+            return xmlDocument;
         }
     }
 }

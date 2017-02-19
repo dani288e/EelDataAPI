@@ -9,11 +9,11 @@ namespace EelDataAPI.UnitTests
     [TestClass]
     public class DALTests
     {
-        private List<DAL.Trigger> _triggers;
+        private List<Trigger> _triggers;
         [TestInitialize]
         public void Init()
         {
-            _triggers = new List<DAL.Trigger>();
+            _triggers = new List<Trigger>();
         }
         [TestMethod]
         public void GetTriggersTest()

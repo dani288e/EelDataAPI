@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using EelDataAPI.Model;
-using System.Collections.ObjectModel;
 
 namespace EelDataAPI.DAL
 {
     public class DALManager
     {
-        public List<DAL.Trigger> GetTriggers(List<DAL.Trigger> triggers)
+        public List<Trigger> GetTriggers(List<Trigger> triggers)
         {
             using (EelDataEntities context = new EelDataEntities())
             {
