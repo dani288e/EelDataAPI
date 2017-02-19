@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Xml;
 using EelDataAPI.DAL;
-using EelDataAPI.Model;
 using System.Diagnostics;
 using System.Collections.Generic;
 
@@ -21,6 +20,8 @@ namespace EelDataAPI.XML
                 triggerElement.SetAttribute("WarningID", trigger.WarningID.ToString());
                 triggerElement.SetAttribute("Timestamp", trigger.DateTime.ToString());
                 root.AppendChild(triggerElement);
+
+                xmlDocument.Save(@"C:\EelData\API\triggers.xml");
             }
             return xmlDocument;
         }

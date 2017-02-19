@@ -72,10 +72,6 @@
       <Project>{502acf9e-9c59-4db5-81eb-eba346b2550e}</Project>
       <Name>EelDataAPI.DAL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\EelDataAPI.Model\EelDataAPI.Model.csproj">
-      <Project>{91255e28-a72f-4ff7-a597-82540a756b5c}</Project>
-      <Name>EelDataAPI.Model</Name>
-    </ProjectReference>
     <ProjectReference Include="..\EelDataAPI.XML\EelDataAPI.XML.csproj">
       <Project>{ea7e80db-b8ac-4238-a9d7-f45a79fb0600}</Project>
       <Name>EelDataAPI.XML</Name>

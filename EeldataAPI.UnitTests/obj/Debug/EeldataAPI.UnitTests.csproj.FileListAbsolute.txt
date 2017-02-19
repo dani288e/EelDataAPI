@@ -1,11 +1,9 @@
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\bin\Debug\EeldataAPI.UnitTests.dll
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\bin\Debug\EeldataAPI.UnitTests.pdb
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\bin\Debug\EelDataAPI.DAL.dll
-C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\bin\Debug\EelDataAPI.Model.dll
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\bin\Debug\EntityFramework.dll
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\bin\Debug\EelDataAPI.DAL.pdb
-C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\bin\Debug\EelDataAPI.Model.pdb
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\bin\Debug\EntityFramework.xml
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\obj\Debug\EeldataAPI.UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EeldataAPI.UnitTests\obj\Debug\EeldataAPI.UnitTests.dll

@@ -48,10 +48,6 @@
       <Project>{502acf9e-9c59-4db5-81eb-eba346b2550e}</Project>
       <Name>EelDataAPI.DAL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\EelDataAPI.Model\EelDataAPI.Model.csproj">
-      <Project>{91255e28-a72f-4ff7-a597-82540a756b5c}</Project>
-      <Name>EelDataAPI.Model</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

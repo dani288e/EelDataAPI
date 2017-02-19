@@ -106,6 +106,7 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Web" />
@@ -139,6 +140,16 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EelDataAPI.DAL\EelDataAPI.DAL.csproj">
+      <Project>{502acf9e-9c59-4db5-81eb-eba346b2550e}</Project>
+      <Name>EelDataAPI.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EelDataAPI.XML\EelDataAPI.XML.csproj">
+      <Project>{ea7e80db-b8ac-4238-a9d7-f45a79fb0600}</Project>
+      <Name>EelDataAPI.XML</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

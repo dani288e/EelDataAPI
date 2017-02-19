@@ -1,7 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using EelDataAPI.DAL;
-using EelDataAPI.Model;
 using System.Collections.Generic;
 
 namespace EelDataAPI.UnitTests

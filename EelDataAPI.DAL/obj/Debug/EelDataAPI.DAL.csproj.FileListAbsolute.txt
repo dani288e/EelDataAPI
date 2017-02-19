@@ -2,10 +2,8 @@ C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\obj\Debug\EelDataAPI.DA
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Debug\EelDataAPI.DAL.dll.config
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Debug\EelDataAPI.DAL.dll
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Debug\EelDataAPI.DAL.pdb
-C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Debug\EelDataAPI.Model.dll
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Debug\EntityFramework.dll
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Debug\EelDataAPI.Model.pdb
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Debug\EntityFramework.xml
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\obj\Debug\EelDataAPI.DAL.dll

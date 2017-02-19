@@ -32,3 +32,9 @@ C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI\obj\Debug\EelDataAPI.csproj
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI\obj\Debug\EelDataAPI.csprojResolveAssemblyReference.cache
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI\obj\Debug\EelDataAPI.dll
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI\obj\Debug\EelDataAPI.pdb
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI\bin\EelDataAPI.DAL.dll
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI\bin\EelDataAPI.XML.dll
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI\bin\EntityFramework.dll
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI\bin\EelDataAPI.DAL.pdb
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI\bin\EelDataAPI.XML.pdb
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI\bin\EntityFramework.xml

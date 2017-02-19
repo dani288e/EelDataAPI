@@ -8,9 +8,9 @@
 </head>
 <body>
     <form id="home" runat="server">
-    <div>
-        Test
-    </div>
+        <div>
+        <asp:Literal ID="lit1" runat="server" />
+        </div>
     </form>
 </body>
 </html>
