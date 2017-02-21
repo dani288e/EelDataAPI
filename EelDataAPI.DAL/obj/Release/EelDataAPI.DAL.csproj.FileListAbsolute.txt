@@ -1,0 +1,10 @@
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Release\EelDataAPI.DAL.dll.config
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Release\EelDataAPI.DAL.dll
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Release\EelDataAPI.DAL.pdb
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Release\EntityFramework.dll
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Release\EntityFramework.xml
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\obj\Release\EelDataAPI.DAL.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\obj\Release\EelDataAPI.DAL.dll
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.DAL\obj\Release\EelDataAPI.DAL.pdb

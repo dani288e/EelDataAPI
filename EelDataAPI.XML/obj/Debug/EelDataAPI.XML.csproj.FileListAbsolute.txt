@@ -1,9 +1,9 @@
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.XML\bin\Debug\EelDataAPI.XML.dll
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.XML\bin\Debug\EelDataAPI.XML.pdb
-C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.XML\obj\Debug\EelDataAPI.XML.csprojResolveAssemblyReference.cache
-C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.XML\obj\Debug\EelDataAPI.XML.dll
-C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.XML\obj\Debug\EelDataAPI.XML.pdb
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.XML\bin\Debug\EelDataAPI.DAL.dll
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.XML\bin\Debug\EntityFramework.dll
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.XML\bin\Debug\EelDataAPI.DAL.pdb
 C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.XML\bin\Debug\EntityFramework.xml
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.XML\obj\Debug\EelDataAPI.XML.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.XML\obj\Debug\EelDataAPI.XML.dll
+C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.XML\obj\Debug\EelDataAPI.XML.pdb

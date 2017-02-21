@@ -9,13 +9,11 @@ namespace EelDataAPI.UnitTests
     public class XMLTests
     {
         private List<Trigger> _triggers;
-        //private Model.Trigger _trigger;
 
         [TestInitialize]
         public void Init()
         {
             _triggers = new List<Trigger>();
-            //_trigger = new Model.Trigger();
         }
         [TestMethod]
         public void GenerateTriggerDocumentTest()

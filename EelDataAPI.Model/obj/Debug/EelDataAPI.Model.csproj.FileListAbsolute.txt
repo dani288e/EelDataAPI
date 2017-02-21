@@ -1,4 +1,0 @@
-C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.Model\bin\Debug\EelDataAPI.Model.dll
-C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.Model\bin\Debug\EelDataAPI.Model.pdb
-C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.Model\obj\Debug\EelDataAPI.Model.dll
-C:\Users\danie\OneDrive\dev\c#\EelDataAPI\EelDataAPI.Model\obj\Debug\EelDataAPI.Model.pdb

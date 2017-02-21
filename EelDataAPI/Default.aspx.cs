@@ -14,13 +14,18 @@ namespace EelDataAPI
         private List<DAL.Trigger> _triggerList;
         protected void Page_Load(object sender, EventArgs e)
         {
+            StartXMLTimer();
+            _triggerList = new List<DAL.Trigger>();
+            string xmlLoader = Server.HtmlEncode(File.ReadAllText(@"C:\EelData\API\triggers.xml"));
+            literal.Text = xmlLoader;
+        }
+
+        private void StartXMLTimer()
+        {
             _xmlTimer = new Timer();
             _xmlTimer.Interval = 5000;
             _xmlTimer.Elapsed += _xmlTimer_Elapsed;
             _xmlTimer.Enabled = true;
-            _triggerList = new List<DAL.Trigger>();
-            string theXML = Server.HtmlEncode(File.ReadAllText(@"C:\EelData\API\triggers.xml"));
-            lit1.Text = theXML;
         }
 
         private void _xmlTimer_Elapsed(object sender, ElapsedEventArgs e)

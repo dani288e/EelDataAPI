@@ -1,7 +1,5 @@
-﻿using System;
-using System.Xml;
+﻿using System.Xml;
 using EelDataAPI.DAL;
-using System.Diagnostics;
 using System.Collections.Generic;
 
 namespace EelDataAPI.XML
